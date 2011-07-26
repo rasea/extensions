@@ -23,7 +23,6 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.rasea</groupId>
 	<artifactId>rasea-extensions</artifactId>
 	<version>0.1.1.Final-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -33,7 +32,7 @@
 	<parent>
 		<groupId>org.rasea</groupId>
 		<artifactId>rasea-parent</artifactId>
-		<version>1-SNAPSHOT</version>
+		<version>1</version>
 		<relativePath>../parent/pom.xml</relativePath>
 	</parent>
 
